@@ -24,7 +24,7 @@ Aporta:
   que una compañía carga el plan contable de Ecuador.
     """,
     'author': 'G7 Intelligent Solutions',
-    'website': 'https://g7intelligent.com',
+    'website': 'https://github.com/g7intelligent/g7-odoo18-showcase',
     'category': 'Accounting/Localizations',
     'license': 'LGPL-3',
     'depends': [
